@@ -4,7 +4,7 @@
  * Description: Put Pruffme webinar iframe into the page
  * Author: Viacheslav Adishchev
  * Author URI: https://github.com/adishchev/wp-pruffme-shortcode
- * Origin: Version: 1.0
+ * Version: 1.0
  */
  
 // Шоткод добавляет код вставки вебинара Pruffme
